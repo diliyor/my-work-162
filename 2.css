@@ -1,0 +1,32 @@
+.q1 {
+    background-color: greenyellow;
+    width: 500px;
+    height: 250px;
+padding-top: 30px;
+border-radius: 70px;
+border: 5px solid red;
+}
+.q2 {
+    background-color: orange;
+    width: 500px;
+    height: 250px;
+padding-top: 30px;
+border-radius: 25% 10%;
+border: 5px solid red;
+}
+.q3 {
+    background-color: aqua;
+    width: 500px;
+    height: 250px;
+padding-top: 30px;
+border-radius: 35px 10em 10%;
+border: 5px solid red;
+}
+.q4 {
+    background-color: cadetblue;
+    width: 500px;
+    height: 250px;
+padding-top: 30px;
+border-radius: 50px 50% 50cm 50em;
+border: 5px solid red;
+}
